@@ -1,8 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
 <h3>Name: Vinodini R </h3>
 <h3>Register Number: 212223040244 </h3>
-
-
 <h3>AIM:</h3>
 <br>
 <p>To find the PEAS description for the given AI problem and develop an AI agent.</p>
@@ -241,11 +239,7 @@ if   __name__ == "__main__":
 
 
 ```
-
 <h5>OUTPUT: </h5>
-
 ![Screenshot 2025-03-24 083541](https://github.com/user-attachments/assets/9db435e2-c106-4b31-9fca-d50618549d5d)
-
-
 <H6>RESULT: </H6>
 the PEAS description for the given AI problem and develop an AI agent is executed successfully.
